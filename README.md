@@ -19,4 +19,4 @@ O projeto é um site explicando sobre a trilha de CSS da Dio.
 
 ## Como acessar o projeto
 
-Para acessar o projeto completo <a href="https://github.com">clique aqui</a>
+Para acessar o projeto completo <a href="https://poncianodev.github.io/desafio1-css-dio/)https://poncianodev.github.io/desafio1-css-dio/">clique aqui</a>
