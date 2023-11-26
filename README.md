@@ -1,4 +1,4 @@
-# Projeto Desafio 1 da trilha CSS da DIO
+# Projeto de desafio da trilha CSS da DIO
 
 
 ## Descrição
